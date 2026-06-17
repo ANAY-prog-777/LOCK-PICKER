@@ -18,7 +18,9 @@ download it
 run the game
 
 
+SCREENSHOTS -->
 
+https://github.com/ANAY-prog-777/LOCK-PICKER/blob/main/Screenshot%202026-06-18%20005829.png
 
 
 
