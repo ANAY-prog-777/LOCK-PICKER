@@ -20,7 +20,5 @@ run the game
 
 SCREENSHOTS -->
 
-https://github.com/ANAY-prog-777/LOCK-PICKER/blob/main/Screenshot%202026-06-18%20005829.png
 
-
-
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/659eff2c-21c4-492d-b5b6-fad4ec7280a1" />
